@@ -24,38 +24,3 @@ L'interface a été développée avec **Python**, **SQLite** et **Streamlit**.
 | `hotel.db`             | Base de données SQLite contenant les données |
 | `README.md`            | Ce fichier |
 
-
-## ▶️ Lancer l'application
-
-### 1. Installer les dépendances
-```bash
-pip install streamlit pandas
-```
-
-### 2. Lancer Streamlit
-Dans le dossier du projet :
-```bash
-streamlit run app.py
-```
-
-Ou si tu utilises la version stylisée avec logo :
-```bash
-streamlit run app_logo.py
-```
-
-### 3. Interface Web
-> Accès via le navigateur à : [http://localhost:8501](http://localhost:8501)
-
----
-
-## 📽️ Démonstration (Vidéo)
-
-🎥 Lien vers la vidéo de démonstration :  
-➡️ [Insérer le lien YouTube ou Google Drive ici]
-
----
-
-## 👥 Réalisé par
-
-- **Laila Ouajbir** — INFs4 / Gr2
-- **Nacira Ait Faraji** — INFs4 / Gr1
